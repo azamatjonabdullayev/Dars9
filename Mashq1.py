@@ -16,3 +16,13 @@
 # print(student1.kelish())
 
 
+# class Laptop:
+#     def __init__(self,brand:str, model: str, memory: int, mem_type: str, ram: int):
+#         self.brand = brand
+#         self.model = model
+#         self.memory = memory
+#         self.mem_type = mem_type
+#         self.ram = ram
+#
+#     def information(self):
+#         print(f"Brand: {self.brand}")
